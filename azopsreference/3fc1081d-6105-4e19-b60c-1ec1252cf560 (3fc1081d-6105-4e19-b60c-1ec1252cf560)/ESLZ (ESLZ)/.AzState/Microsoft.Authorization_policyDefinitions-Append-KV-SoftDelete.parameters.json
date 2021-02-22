@@ -23,7 +23,7 @@
                     },
                     {
                       "field": "Microsoft.KeyVault/vaults/enableSoftDelete",
-                      "notEquals": false
+                      "equals": false
                     }
                   ]
                 }
